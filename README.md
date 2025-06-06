@@ -210,4 +210,9 @@ python manage.py runserver
 
 ### This are all the total api end points for the Fitness Booking API
 
+## For running Testcases
+   ```
+    python manage.py test bookings
+   ```
+
 ## ------------------------------------- THE END ------------------------------------------
